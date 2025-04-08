@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+    <html lang="br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Currículo</title>
+        <link rel="stylesheet" href="css/curriculo.css">
+    <header></header>
+        <style>
+    body{
+            background-color: rgba(44, 44, 44, 0.8)
+        } /*cor da pagina*/
+        </style>
+    </head>
+
+    <body>
+    <header>
+        <div>
+        <img src="17.jpg" class = "left-align .rezized image"   width = "300" ;
+            height = "400";
+            alt = "foto de perfil "
+        >
+        </div>
+                <!-- #IMAGEM DE PERFIL -->
+        <div>
+            <h1 class="name">Rafael Dias Farias
+
+            </h1>
+            <ul>
+                <p> PROGRAMADOR (S.I) </p>
+            </ul>
+        </div>
+        </header>
+
+        <section id = "about">
+            <h2>SOBRE MIM </h2>
+            <ul>
+            <li>Sou estudante na área de Sistema da informação, bastante entusiasmado para ingressar no estágio e poder agrupar o teórico com a prática e evoluir na área de programação.</li>
+            </ul>
+        </section>
+
+
+
+        <section id="education">
+        <h2>EDUCAÇÃO</h2>
+            <UL>
+        <li><strong>UDF - Centro Universitário do Distrito Federal  </strong> CURSANDO 2ºSEMESTRE (SISTEMA DA INFORMAÇÃO)</LI>
+        <li><strong>COOMPLEM IDIOMAS  </strong>CURSEI - 06 ANOS DE INGLÊS</li>
+            </UL>
+        </section>
+
+        <section>
+            <h2>EXPERIÊNCIA Profissional</h2>
+            <UL>
+            <LI><STRONg>SRS LIMPEZA - 5 ANOS:</STRONg> Auxiliar - Escritorio, Vendedor, Administrador.  (2020-2025)</LI>
+            </UL>
+        </section>
+
+        <section id="skills" class="section-spacing">
+            <h2>HABILIDADES PROGRAMAÇÃO</h2>
+            <TABLE>
+                <tr>
+                    <th>HABILIDADES</th>
+                    <th>CONHECIMENTO</th>
+                </tr>
+                <TR>
+                    <TD>HTML</TD>
+                    <TD>BASICO</TD>
+                </TR>
+                <TR>
+                    <TD>CSS</TD>
+                    <TD>BASICO</TD>
+                </TR>
+
+                <TR>
+                    <TD>PHP</TD>
+                    <TD>BASICO</TD>
+                </TR>
+
+                <TR>
+                    <TD>PYTHON</TD>
+                    <TD>BASICO</TD>
+                </TR>
+            </TABLE>
+        </SECtion>
+
+        <section id= "projects">
+            <h2>PROJETOS</h2>
+            <UL>
+                <LI><STRONG>LIXO NO LIXO (PYTHON):</STRONG>  LIXO NO LIXO: projeto de conscientização ao público. elaborei junto com meu grupo, um Robô de respostas para sanar duvidas de onde descartar o tipo de lixo eletronico selecionado!</LI>
+                <LI><STRONG>CURRICULO(HTML/CSS):</STRONG>  CURRICULO: Desenvolvi um site exibindo o meu currículo  para visualização e contato.</LI>
+            </UL>
+        </section>
+
+        <section id="CONTATOS" >
+            <h2>CONTATOS</h2>
+            <P>Rafael Dias Farias <b>(BRASILIA-DF)</b></P>
+            <b><p>ENTUSIASTA DA PROGRAMAÇÃO</p></b>
+            <b><p>Telefone:</b> (61) 98383-0456</p>
+            <B><P>E-mail:</B></p> <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCGDWWzCzDnzPPXfGHZlMjJCRLrlDrQFTqczVPRbTbcBbRgdLbgLWVTTVJwdfrljcJGmwg" class="email-button">E-mail </a>
+            <b><p>LinkedIn:</p></b><a href="https://www.linkedin.com/in/rafaeldias022/" class="linkedin-button" target="_blank">Perfil LinkedIn</a>
+            <b><p>GitHub: </p></b><a href="https://github.com/Diax022" class="github-button" target="_blank">Perfil GitHub</a>
+
+        </section>
+    </body>
+    </html>
