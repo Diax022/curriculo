@@ -6,7 +6,7 @@ Este repositório contém o código-fonte do meu **Currículo Online**, um proje
 
 🔗 **Acesse aqui**: [curriculo-five-mu.vercel.app](https://curriculo-five-mu.vercel.app/)
 
-![Preview do Currículo](https://curriculo-five-mu.vercel.app/preview.png)
+![Preview do Currículo](curriculo/PREVIEW.JPG)
 
 ---
 
