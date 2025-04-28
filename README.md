@@ -6,7 +6,7 @@ Este repositório contém o código-fonte do meu **Currículo Online**, um proje
 
 🔗 **Acesse aqui**: [curriculo-five-mu.vercel.app](https://curriculo-five-mu.vercel.app/)
 
-![Preview do Currículo](curriculo/PREVIEW.JPG)
+![Preview do Currículo](PREVIEW.JPG)
 
 ---
 
@@ -25,11 +25,3 @@ Este repositório contém o código-fonte do meu **Currículo Online**, um proje
 - **HTML5** — estrutura do site
 - **CSS3** — estilização e responsividade
 - **Vercel** — deploy e hospedagem grátis
-
----
-
-## 🚀 Como Rodar Localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
